@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/lightspeed) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-光速云（LightSpeed）提供机场订阅，常见叫法包括“LightSpeed VPN”“光速云梯子”和“光速云机场”。页面同时整理代理节点、客户端，以及月度和一次性流量方案，可先按付款方式与实际用量缩小选择范围。
-
 > [!NOTE]
 > **30 秒看懂光速云**
 >
-> - **最低门槛**：轻量版 59GB/月，年付 ¥99。
-> - **核心特点**：月度套餐覆盖 110GB 至 900GB，另有 1TB 不限时流量包。
-> - **优惠与场景**：页面列有新人 8 折码，并提供流媒体解锁和线路测速记录。
+> [访问官网](https://eoht.net/serve/airport/lightspeed) · [查看套餐与优惠](#lightspeed-vpn-plans) · [查看解锁与测速](#lightspeed-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠](#lightspeed-vpn-plans) · [查看解锁与测速](#lightspeed-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：轻量版年付 ¥99/年、59GB/月；可先按付款方式与实际用量选择。
+> - **服务方式**：提供机场订阅和客户端使用资料，月度套餐覆盖 110GB 至 900GB，另有 1TB 不限时流量包。
+> - **优惠与证据**：页面列有**新人 8 折码**，同时提供流媒体解锁和线路测速记录；需要更多流量或一次性方案时，可查看下方套餐与对应记录。
 >
+
+光速云（LightSpeed）提供机场订阅，常见叫法包括“LightSpeed VPN”“光速云梯子”和“光速云机场”。页面同时整理代理节点、客户端，以及月度和一次性流量方案，可先按付款方式与实际用量缩小选择范围。
 
 <a id="lightspeed-official-website"></a>
 
